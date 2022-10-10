@@ -1,7 +1,3 @@
-Hello! 
-
-I'm Emmett Wall and this is my solution for the BlockApps' Backend Developer Interview Task. 
-
 REQUIREMENTS/LIMITATIONS: 
 jdk must be installed
 file must be .bmp
